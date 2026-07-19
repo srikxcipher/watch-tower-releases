@@ -1,6 +1,6 @@
 cask "watch-tower" do
-  version "0.1.0"
-  sha256 "20738af781967e10c2154195637b38272bb48cae52dc79da6af0cfdcb6fc56b4"
+  version "0.1.1"
+  sha256 "032a33b7e182af86a37f65a8b6961ceccd7126f3a494cd27f0ce7bbba338a94b"
 
   url "https://github.com/srikxcipher/watch-tower-releases/releases/download/v#{version}/WatchTower.zip"
   name "Watch Tower"
